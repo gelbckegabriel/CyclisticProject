@@ -33,7 +33,7 @@
   <li>Presentation:</li>
 
   ```
-  Contains the PowerPoint presentation with all the insights of my analysis.
+  Contains the PowerPoint presentation with all the insights of my analysis. OBS: Check the speaker notes for important information during presentation.
   ```
 
   </ul>
